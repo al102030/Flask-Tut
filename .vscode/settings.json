@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=missing-module-docstring",
+        "--disable=missing-class-docstring",
+        "--disable=missing-function-docstring",
+        "--disable=C0103"
+    ]
+}
